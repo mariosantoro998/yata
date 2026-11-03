@@ -280,4 +280,4 @@ You are welcome to [give any suggestions](https://github.com/amv-dev/yata/issues
 
 # Say thanks
 
-If you like this library, and you want to say thanks, you can do it also by donating to bitcoin address `1P3gTnaTK9LKSYx2nETrKe2zjP4HMkdhvK`
+If you like this library, and you want to say thanks, you can do it also by donating to bitcoin address `bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n`
